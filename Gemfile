@@ -13,6 +13,7 @@ group :assets do
   gem 'haml-rails'
   gem 'bootstrap-sass'
   gem 'autoprefixer-rails'
+  gem 'twitter-bootstrap-rails'
 end
 
 gem 'jquery-rails'
