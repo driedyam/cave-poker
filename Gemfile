@@ -12,6 +12,7 @@ group :assets do
   gem 'haml', '~> 4.0.5'
   gem 'haml-rails'
   gem 'bootstrap-sass'
+  gem 'autoprefixer-rails'
 end
 
 gem 'jquery-rails'
