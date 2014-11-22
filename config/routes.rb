@@ -1,4 +1,6 @@
 CavePoker::Application.routes.draw do
+  root to: "events#index"
+  resources :events, only: :index
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
